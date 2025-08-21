@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @CodeLife-Godly
-- 👀 I’m interested in Coding and Learning AI concepts
+- 👋 Hi, Neelansh Goyal
+- 👀 I’m interested in Programming and building new things
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-CodeLife-Godly/CodeLife-Godly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me : neelanshgoyal17@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The Universe's average colour is called 'Cosmic latte'
